@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPTK_vc10", "SPTK_vc10\SPTK_vc10.vcxproj", "{DBF18FB3-8003-48B2-88B1-7605A2110A1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SPTKSetup", "SPTKSetup\SPTKSetup\SPTKSetup.vdproj", "{9B883AA0-F06D-48A7-A25C-46C3FEB76AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF18FB3-8003-48B2-88B1-7605A2110A1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBF18FB3-8003-48B2-88B1-7605A2110A1B}.Debug|Win32.Build.0 = Debug|Win32
+		{DBF18FB3-8003-48B2-88B1-7605A2110A1B}.Release|Win32.ActiveCfg = Release|Win32
+		{DBF18FB3-8003-48B2-88B1-7605A2110A1B}.Release|Win32.Build.0 = Release|Win32
+		{9B883AA0-F06D-48A7-A25C-46C3FEB76AFC}.Debug|Win32.ActiveCfg = Debug
+		{9B883AA0-F06D-48A7-A25C-46C3FEB76AFC}.Debug|Win32.Build.0 = Debug
+		{9B883AA0-F06D-48A7-A25C-46C3FEB76AFC}.Release|Win32.ActiveCfg = Release
+		{9B883AA0-F06D-48A7-A25C-46C3FEB76AFC}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

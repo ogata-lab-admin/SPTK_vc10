@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SPTKSetup", "SPTKSetup\SPTKSetup.vdproj", "{26836AE3-92D4-4E29-AB46-4092DB3D23DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26836AE3-92D4-4E29-AB46-4092DB3D23DA}.Debug|Default.ActiveCfg = Debug
+		{26836AE3-92D4-4E29-AB46-4092DB3D23DA}.Debug|Default.Build.0 = Debug
+		{26836AE3-92D4-4E29-AB46-4092DB3D23DA}.Release|Default.ActiveCfg = Release
+		{26836AE3-92D4-4E29-AB46-4092DB3D23DA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
